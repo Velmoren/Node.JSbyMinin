@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="899cff0a-fc9a-4d17-ac6f-b2f42c5420a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/models/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/orders.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cart.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/cart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/courses.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/courses.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/course.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/course.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/courses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/cart.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/cart.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/course-edit.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/course-edit.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/navbar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/navbar.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="basics" />
+        <entry key="$PROJECT_DIR$" value="express" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,12 +72,25 @@
       <updated>1610613919021</updated>
       <workItem from="1610613921908" duration="19238000" />
       <workItem from="1610695456573" duration="16598000" />
-      <workItem from="1610714450428" duration="12000" />
+      <workItem from="1610714450428" duration="8319000" />
+      <workItem from="1610781704849" duration="12066000" />
     </task>
+    <task id="LOCAL-00001" summary="express app">
+      <created>1610714505883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610714505883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="express app" />
+    <option name="LAST_COMMIT_MESSAGE" value="express app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="85" y="198" key="#Inspections" timestamp="1610700565106">
@@ -68,9 +101,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="312" key="#com.intellij.fileTypes.FileTypeChooser/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1610711861640" />
-    <state x="161" y="251" key="Vcs.Push.Dialog.v2" timestamp="1610628027438">
+    <state x="96" y="19" key="CommitChangelistDialog2" timestamp="1610714504632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="251" key="Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1610628027438" />
+    <state x="96" y="19" key="CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1610714504632" />
+    <state x="161" y="251" key="Vcs.Push.Dialog.v2" timestamp="1610714508793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="251" key="Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1610714508793" />
   </component>
 </project>
